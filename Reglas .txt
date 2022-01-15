@@ -1,0 +1,9 @@
+El archivo JSX
+
+ -  Se debe cumple estrictamente la reglas de apertura y cierre.
+
+ . En un componente solo puede haber un elemento con el nivel mas alto. 
+
+ - Si es un solo componente se debe agregar una diagonal de cierre. 
+
+ - El jsx es solo obligatorio en vite
