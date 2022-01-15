@@ -25,6 +25,19 @@ nota: se debe configurar el archivo taildinws.config y el index.css
 
 https://tailwindcss.com/docs/guides/create-react-app
 
+### Git 
+
+Creando la rama en el main
+````git checkout -b nuevo-header main````
+
+Cambio de rama
+``git checkout main``
+
+Uniendo la rama
+``git merge nuevo-header``
+
+Eliminado la rama
+``git branch -d nuevo-header``
 
 ### Regla hoook
 1- Los hook se declaran al principio dentro de tu componente
